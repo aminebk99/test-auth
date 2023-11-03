@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI = 'mysql://root:@localhost:3306/auth-user'
+SQLALCHEMY_TRACK_MODIFICATIONS = False

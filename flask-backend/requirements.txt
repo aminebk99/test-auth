@@ -1,3 +1,6 @@
 Flask
 Flask-Cors
 PyJWT
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Script
